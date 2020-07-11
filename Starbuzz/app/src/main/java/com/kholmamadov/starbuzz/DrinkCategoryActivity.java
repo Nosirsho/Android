@@ -18,8 +18,6 @@ public class DrinkCategoryActivity extends Activity {
                 Drink.drinks);
         ListView listDrinks = (ListView)findViewById(R.id.list_drinks);
         listDrinks.setAdapter(listAdapter);
-
-
-        )
+        
     }
 }
